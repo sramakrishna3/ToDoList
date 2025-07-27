@@ -15,3 +15,17 @@ Edit student
 
 Delete student
 <img width="1365" height="556" alt="Screenshot 2025-07-27 100846" src="https://github.com/user-attachments/assets/f849f295-d4ae-4170-a762-ae0df3759f36" />
+
+<h1>Api Tets</h1>
+save student
+<img width="867" height="392" alt="image" src="https://github.com/user-attachments/assets/d39c2b2d-7397-49c8-afbf-9b7f692cca79" />
+
+Get all Students
+<img width="862" height="608" alt="image" src="https://github.com/user-attachments/assets/8254054c-f987-488e-879e-ba404899ecab" />
+
+Edit Student
+<img width="897" height="503" alt="image" src="https://github.com/user-attachments/assets/73e8ea8f-fb7c-4e23-84f7-07ba6c91957a" />
+
+Delete student
+<img width="871" height="651" alt="image" src="https://github.com/user-attachments/assets/7299ec01-996b-4715-b0b0-b30ed58cc6ca" />
+
