@@ -1,5 +1,5 @@
 # ToDoList
-I developed basic Todo list using java using framework is spring boot with JPA repository and database MySQL. And i done test using post api also.
+I have developed a basic To-Do List application using Java with the Spring Boot framework, utilizing JPA Repository for data management and MySQL as the database. I have also tested the application using POST API requests.
 
 <h1>UI Part</h1>
 Save Studet
